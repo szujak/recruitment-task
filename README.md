@@ -11,6 +11,7 @@ Rules:
   - First one with search input and live results (no pagination, just display up to 10 matched users)
   - Second one with detailed view of user which will be displayed after click on single result (feel free to arrange it by yourself)
 - Make it mobile first
+- Keep source code on github and send us link to the repository with your solution
 
 Additional:
 - Try to use GraphQL to fetch data
